@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.hakim.words">
+    package="com.iset.words">
 
     <application
         android:allowBackup="true"
@@ -12,10 +12,7 @@
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
         <activity
-            android:name="com.hakim.words.DetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.hakim.words.MainActivity" />
-        <activity
+
             android:name="com.hakim.words.MainActivity"
             android:exported="true">
             <intent-filter>

@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.hakim.words.adapter.LetterAdapter
+import com.iset.words.R
 
 class LetterListFragment : Fragment() {
     private var _binding: FragmentLetterListBinding? = null
