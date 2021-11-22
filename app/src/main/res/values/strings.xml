@@ -4,4 +4,6 @@
     <string name="action_switch_layout">Switch Layout</string>
     <string name="look_up_word">Look up word in a Browser Search</string>
     <string name="look_up_words">Show Stored Words</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
